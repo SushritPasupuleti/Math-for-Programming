@@ -37,3 +37,8 @@ Update/Create the requirements:
 ```bash
 pip3 freeze > requirements.txt
 ```
+
+## Other References
+
+- [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
